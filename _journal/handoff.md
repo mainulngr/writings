@@ -18,12 +18,11 @@ updated: 2026-10-15 (model roles documented)
 
 - `story-learning-lane` (active) — catalog now 16 devices, three rings;
   corpus landed (`data/corpora/` 20 texts, index at
-  `data/derived/corpora-index.md`). Course STARTED 2026-10-15: Module 0
-  baseline assigned — Mainul writes `stories/adult/_baseline.md`
-  (any subject, any length, any form — post-shaped acceptable; the
-  critique reads the fiction gap either way); on delivery run voice-check
-  + critique mode to build the starting profile that sequences Modules
-  1–7.
+  `data/derived/corpora-index.md`). Module 0 DONE 2026-10-15 — baseline
+  pair + six-way model rewrite test (`stories/adult/_baseline.md`);
+  writer's history (fiction 2010-12, dormant) filed in the change folder.
+  Module 1 next: read কাবুলিওয়ালা (corpus), rewrite one almost-story
+  social post as a scene.
 
 ## Start here
 

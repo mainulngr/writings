@@ -9,7 +9,7 @@ Calibrated to `voice.md`: Bangla-first, gentle, collective subjects, soft
 landings. Goal: structure he can *reuse*, not rules to memorize. Every
 module ends in an artifact in `stories/` — the course produces corpus.
 
-Progress: module 0 ☐ · 1 ☐ · 2 ☐ · 3 ☐ · 4 ☐ · 5 ☐ · 6 ☐ · 7 ☐
+Progress: module 0 ☑ (2026-10-15 — baseline pair + six-way model test) · 1 ☐ · 2 ☐ · 3 ☐ · 4 ☐ · 5 ☐ · 6 ☐ · 7 ☐
 
 ## How each module works
 
