@@ -47,3 +47,10 @@ Mainul wrote fiction in the ~2010–12 era, then stopped — ~14 years of
 social-post prose only. Read the baseline pair in this light: v2 is
 dormant muscle re-engaging, not a beginner's leap. Watch for the stall
 at his 2012 ceiling; the drabble-week module is the muscle-rebuild lane.
+
+## Declared maturity bar (2026-10-15)
+
+Mainul flagged two beats in opus-5-5's baseline rewrite as the level he
+wants to reach himself: the held ambiguity ("কখনো শান্তি, কখনো ক্লান্তি")
+and the callback payoff (hiding son returns to lighten the নেশা). Cataloged
+as devices 17–18 — practice targets, not just admired lines.

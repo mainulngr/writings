@@ -175,6 +175,27 @@ real exemplars surface; never seeded from hearsay.
 - **Re-siting seed:** Bangla two-line stories; a ছড়া-shaped micro-fiction
   series.
 
+### 17. The held ambiguity
+- **Exemplar:** canonized from Mainul's own bar — opus-5-5's baseline
+  rewrite (2026-10-15): "কখনো মনে হয় এটা শান্তি, কখনো মনে হয় ক্লান্তি।"
+- **Device:** give a thing two simultaneous readings and never resolve;
+  the reader holds the tension instead of receiving a verdict.
+- **Why it fits:** his hedged register already leans this way — this is
+  the same instinct applied to *feeling*, not just claim.
+- **Re-siting seed:** any recurring habit/emotion framed as both comfort
+  and cost in the same breath.
+
+### 18. The callback payoff
+- **Exemplar:** same source — the hiding son ("পিঠের পেছনে লুকিয়ে")
+  returns at the close to lighten the নেশা; "সমুদ্রে যেতে হয় না" folds
+  the whole dream-frame into the thesis.
+- **Device:** an image introduced as scene texture returns at the end to
+  carry the emotional weight; every image earns its keep twice.
+- **Why it fits:** strengthens endings without adding ideas — the ending
+  is made of material the reader already trusts.
+- **Re-siting seed:** any piece where an early concrete image (a chai-boy,
+  a hiding child, a storm outside) is written to *return*, not just sit.
+
 ## Corpus availability
 
 Acquired PD texts live in `data/corpora/{bangla,world}/…`; the map —
