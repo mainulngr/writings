@@ -1,5 +1,6 @@
 ---
-status: exploring
+status: promoted
+promoted: _agent/skills/social-pipeline/
 date: 2026-10-15
 ---
 
@@ -57,16 +58,20 @@ outperform generated ideas.
 - **Cadence guard** — batch sized to the schedule (1–2 slots/day → weekly
   batch of ~6–8). Bigger queues rot.
 
-## Working lean
+## Working lean — decided 2026-10-15
 
-Build L2: a `social-pipeline` skill covering both ends — `batch` (generate
-candidates from sources + verdict history) and `sweep` (read verdicts,
-promote/iterate/drop, log learnings). L4 revisits only if a page lane
-matures.
+L2 confirmed by Mainul, with a refinement that made it better: **seeds are
+the primary input.** He supplies context/keywords he wants explored; the
+agent shapes. Generated-without-seed batches are secondary — offered from
+backlog/theme gaps, never pushed blind.
+
+Built as the `social-pipeline` skill: `batch` (seeds → voice-checked
+candidates → queue) + `sweep` (verdicts → promote/rework/drop + learnings).
+Queue home decided: one rolling `social/_queue.md`, dated batch sections.
+L4 revisits only if a page lane matures.
 
 ## Open sub-questions
 
-- Queue home: `social/_queue.md` rolling file, or per-batch dated files?
 - Who writes seeds vs generated — and do we measure which performs?
 - Does Onkur Notes / mainulsq change what the pipeline feeds (lane-aware
   generation)?

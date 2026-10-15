@@ -18,14 +18,17 @@ does it fix the audience, does it preserve reach, what does it cost.
 
 ## The assets
 
-- **2009 profile** — emptied, no friends, no posts. Clean slate, zero reach.
+- **`mainulngr` — 2009 profile** (fb.com/mainulngr) — emptied, no friends,
+  no posts. Clean slate, zero reach.
   **Context (Mainul, 2026-10-15):** the emptying was deliberate — a
   follow-only sanctuary after FB fatigue: nobody can reach him, he follows
   profiles he wants. That silence is an asset, not just absence. First
   account — he feels attached to it.
-- **2013 profile** — active, cluttered friend list, existing reach.
-- **`mainulsq` page** — exists, carries his name. Unknown history/follower
-  count (open question below). Public storefront candidate.
+- **`mainuljs` — 2013 profile** (fb.com/mainuljs) — active, cluttered
+  friend list, existing reach.
+- **`mainulsq` page** (fb.com/mainulsq) — exists, carries his name.
+  Unknown history/follower count (open question below). Public storefront
+  candidate.
 - **`Onkur Notes` page** — exists, tied to the Onkur Labs brand umbrella.
   A *persona* page: not anonymous, but not his personal name either —
   the middle lane between "writing as me" and "writing hidden".

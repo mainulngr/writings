@@ -14,11 +14,12 @@ trigger: always_on
 - **Docs:** `_marks/` (durable reference + decisions)
 - **Agent memory:** `_journal/` — handoff + changes/ (in-flight work) + archive/ (done/dropped)
 - **Skills:** `_agent/skills/` — `fb-post`, `story`, `picture-book`,
-  `blog-post`, `voice-check` (shared audit; always the last pass)
+  `blog-post`, `voice-check` (shared audit; always the last pass),
+  `social-pipeline` (seed → batch → verdict → promote loop)
 
 ## Layout — one dir per channel
 
-- `social/` — FB posts; one file per day (`YYYY_MM_DD` name), `## Morning|Evening|Night` slots → `### Main caption` + `### Short variants (styled background)` + optional `### Human Version`.
+- `social/` — FB posts; one file per day (`YYYY_MM_DD` name), `## Morning|Evening|Night` slots → `### Main caption` + `### Short variants (styled background)` + optional `### Human Version`. `social/_queue.md` = the pipeline's rolling draft queue.
 - `blog/` — long-form essays, one file per post.
 - `stories/<children|teens|adult>/` — fiction by audience band (`_marks/audience-bands.md` carries budgets + frontmatter convention).
 - `books/<slug>/` — one folder per illustrated book (README · spreads.md · art/).
