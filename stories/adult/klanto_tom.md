@@ -57,9 +57,9 @@ never states the theme; the children carry it.
    Tom.
 5. **Landing.** The father sits down between them. He may or may not say
    sorry; let the draft decide. The son leans into him without looking
-   up. **Callback (device 18):** the son's cheer flips. For the first
+   up. **Callback ([device 18](../../_study/short-fiction/device-catalog.md#18-the-callback-payoff)):** the son's cheer flips. For the first
    time he shouts for Tom to run, and the planted object returns. **Held
-   ambiguity (device 17):** the father can't tell whether he has been
+   ambiguity ([device 17](../../_study/short-fiction/device-catalog.md#17-the-held-ambiguity)):** the father can't tell whether he has been
    forgiven or just explained. Both are true. End there.
 
 ### রক্ষাকড়া — guardrails
@@ -76,7 +76,7 @@ never states the theme; the children carry it.
 ### ব্যবহারের নিয়ম — how to use this
 
 Write beat 4 first: the doorway and the overheard line. Once the turn
-exists, beats 1–3 are just the road to it (device 10, the engineered
+exists, beats 1–3 are just the road to it ([device 10](../../_study/short-fiction/device-catalog.md#10-the-engineered-turn), the engineered
 turn). Then write the rest in Bangla, scene by scene. Change anything
 that doesn't feel true to your house.
 
@@ -96,7 +96,7 @@ that doesn't feel true to your house.
 ### ধাপ ১ — বীজ বোনা (কার্টুনের বিকেল)
 
 - **কাজ:** জায়গা, সময় আর মানুষগুলোকে চেনানো। সাথে দুটো জিনিস চুপচাপ রেখে দেওয়া, যেগুলো শেষে ফিরে আসবে। এক, ছেলে সবসময় জেরির পক্ষে চিৎকার করে। দুই, বাবার হাতের কাছে কোনো একটা জিনিস: ঠান্ডা চা, হেডফোন, বা কলম।
-- **কেন:** শেষে যা ফিরে আসবে, শুরুতে তা না রাখলে শেষটা জোর করে বসানো মনে হয়। পাঠক যা আগে দেখেছে, শেষে তা-ই বেশি বিশ্বাস করে (ডিভাইস ১৮)।
+- **কেন:** শেষে যা ফিরে আসবে, শুরুতে তা না রাখলে শেষটা জোর করে বসানো মনে হয়। পাঠক যা আগে দেখেছে, শেষে তা-ই বেশি বিশ্বাস করে ([ডিভাইস ১৮](../../_study/short-fiction/device-catalog.md#18-the-callback-payoff))।
 - **লেখার আগে প্রশ্ন:** তোমার ঘরে বিকেলের আলো কেমন? টিভির আওয়াজ কোন দরজা দিয়ে আসে? কাজের সময় তোমার হাত বারবার কোন জিনিসের দিকে যায়?
 - **ফাঁদ:** শুরুতেই বাবার মনের অবস্থা বলে দেওয়া, যেমন "আমি খুব চাপে ছিলাম"। চাপ দেখাও ঘড়ির দিকে তাকানো দিয়ে, না-ছোঁয়া চা দিয়ে।
 
@@ -120,12 +120,12 @@ that doesn't feel true to your house.
 - **কেন:** এখানে "ভুক্তভোগী" ক্ষমা দেখায় "খলনায়ক" মাফ চাওয়ার আগেই। বাবা হঠাৎ বোঝে, ওদের গল্পের ফ্রেমে সে-ই টম। পোস্টের পুরো ভাবনা এক মুহূর্তে ঘটে যায়, কাউকে বলতে হয় না। কাবুলিওয়ালার কথা মনে করো: শেষে কাগজের ছোট্ট হাতের ছাপটা কাজ করে, কোনো সংলাপ না।
 - **লেখার আগে প্রশ্ন:** তোমার দশ বছরের মেয়ে আসলে কীভাবে কথা বলে? তার যুক্তি কোথায় একটু ভুল, একটু মজার? তার মুখে বড়দের কোন শব্দ মানায় না?
 - **ফাঁদ:** মেয়েকে দিয়ে বড়দের মতো জ্ঞানের কথা বলানো। উত্তরটা ছোট আর শিশুসুলভ রাখো, এমনকি একটু ভুল হলেও চলবে। "টম খারাপ না, ও শুধু ক্লান্ত"-জাতীয় কথা ক্যাপশনের মতো শোনালে আরও ছোট করো।
-- **আগে কেন লিখবে:** মোড় জানা থাকলে বাকি ধাপগুলো শুধু সেখানে পৌঁছানোর রাস্তা। কোন বীজ বুনতে হবে, কোন বাধা দরকার, সব মোড় থেকেই ঠিক হয় (ডিভাইস ১০, পরিকল্পিত মোড়)।
+- **আগে কেন লিখবে:** মোড় জানা থাকলে বাকি ধাপগুলো শুধু সেখানে পৌঁছানোর রাস্তা। কোন বীজ বুনতে হবে, কোন বাধা দরকার, সব মোড় থেকেই ঠিক হয় ([ডিভাইস ১০](../../_study/short-fiction/device-catalog.md#10-the-engineered-turn), পরিকল্পিত মোড়)।
 
 ### ধাপ ৫ — নামা (শেষ)
 
 - **কাজ:** বাবা দুজনের মাঝখানে বসে। মাফ চায় কি চায় না, সেটা লিখতে লিখতে ঠিক করবে। ছেলে না তাকিয়েই গা ঘেঁষে বসে। ধাপ ১-এর বীজ ফেরে: ছেলে এই প্রথম টমের পক্ষে চিৎকার করে, আর বাবার সেই জিনিসটাও (চা, হেডফোন) ফিরে আসে।
-- **কেন:** শেষটা নতুন কোনো ভাবনা দিয়ে না, আগের চেনা জিনিস দিয়ে তৈরি হলে পাঠক সেটা নিজের মতো করে বুঝে নেয়। আর শেষ অনুভূতিটা দ্বিধায় রাখো: বাবা বোঝে না সে ক্ষমা পেল, নাকি শুধু ব্যাখ্যা পেল। দুটোই সত্যি (ডিভাইস ১৭)।
+- **কেন:** শেষটা নতুন কোনো ভাবনা দিয়ে না, আগের চেনা জিনিস দিয়ে তৈরি হলে পাঠক সেটা নিজের মতো করে বুঝে নেয়। আর শেষ অনুভূতিটা দ্বিধায় রাখো: বাবা বোঝে না সে ক্ষমা পেল, নাকি শুধু ব্যাখ্যা পেল। দুটোই সত্যি ([ডিভাইস ১৭](../../_study/short-fiction/device-catalog.md#17-the-held-ambiguity))।
 - **লেখার আগে প্রশ্ন:** তোমার ছেলে রাগ ভাঙলে কী করে? কথা বলে, নাকি শুধু কাছে আসে? শেষ লাইনটা কি টিভির শব্দ, ছেলের চিৎকার, নাকি বাবার একটা ছোট কাজ?
 - **ফাঁদ:** শেষে শিক্ষা বলে দেওয়া, যেমন "সেদিন বুঝলাম মানুষ আসলে ধূসর"। দ্বিধা যেখানে আছে, সেখানেই থামো।
 
