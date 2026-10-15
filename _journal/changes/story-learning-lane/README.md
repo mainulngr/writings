@@ -40,3 +40,10 @@ course feeds the corpus.
   classics + translations + modern highly-rated. Added 6 Bangla entries
   (Tagore→Humayun); Pratilipi's rated cream is fair game for dissection,
   only its average stays deprioritized.
+
+## Writer's history (noted 2026-10-15)
+
+Mainul wrote fiction in the ~2010–12 era, then stopped — ~14 years of
+social-post prose only. Read the baseline pair in this light: v2 is
+dormant muscle re-engaging, not a beginner's leap. Watch for the stall
+at his 2012 ceiling; the drabble-week module is the muscle-rebuild lane.
