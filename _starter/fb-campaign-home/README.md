@@ -43,6 +43,14 @@ does it fix the audience, does it preserve reach, what does it cost.
   friend list isn't the ceiling. With zero friends, comments can be scoped
   shut and messages go to requests: **publish without being reachable** —
   the sanctuary keeps its silence and gains a stage.
+- **Follow ≠ friend** — confirmed 2026-10-15: follow opens independently;
+  friend requests narrow to "friends of friends", which at zero friends
+  resolves to nobody. Inbound sealed by default; outbound stays his.
+  Professional Mode optional later for insights + a prominent Follow
+  button.
+- Profile posts ride the friends feed — strongly better organic reach
+  than pages (page organic ~low single digits unboosted). Advantage
+  activates only once followers/friends exist.
 - FB ToS: **one personal account per person**. Two profiles is a technical
   violation — enforcement is lax for normal use, nonzero risk that FB flags
   the secondary (2009) account someday.
@@ -75,9 +83,12 @@ declared by its nature:
   "uncomfortable but not dangerous". Absorbs most of what the anon lane
   would have carried, pushing true anonymity further out.
 - **2013 profile = life/social + gentle bridge.**
-- **Anon lane = new unnamed page, only for the truly sensitive tier**
-  (e.g. the religious questions lane) — smaller now that Onkur Notes
-  exists.
+- **Anon lane = new unnamed page, for the truly sensitive tier** — Mainul
+  wants it in the plan, not deferred indefinitely. Name candidates
+  proposed (his register: quiet, sky/window/night, collective subjects):
+  তৃতীয় মানুষ (top pick — the grammar IS the disguise), অনামী,
+  অপ্রকাশিত চিঠি, আলোছায়া, জানালার ধারে, ভোরের আগে, নীরব পর্যবেক্ষণ.
+  Availability unchecked — pick then test.
 
 Flow: draft in corpus → lane by nature → `mainulngr` for the literary
 corpus → best-of to `mainulsq` → Onkur Notes for studio content → anon
