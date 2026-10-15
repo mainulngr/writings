@@ -5,7 +5,9 @@ source: social/2025_12_22.md
 course: module 1 — the atom
 ---
 
-## Blueprint (Devin · claude-opus-5-5-medium)
+## নকশা — blueprint (Devin · claude-opus-5-5-medium)
+
+*Craft terms: `_study/short-fiction/paribhasha.md` — বাংলা অর্থে সব শব্দ সেখানে।*
 
 Working title: ক্লান্ত টম — rename freely.
 
@@ -19,17 +21,17 @@ realizes he has been Tom in their story all afternoon.
 never states the theme; the children carry it.
 **Length:** 900–1,300 words (adult band, flash end).
 
-### The atom
+### গল্পের পরমাণু — the atom
 
 | | |
 |---|---|
-| Character | Father, home office, a deadline and a 5 pm client call |
-| Want | One quiet hour (echo of the baseline: solitude as habit) |
-| Counter-want | Son wants him on the sofa, watching Tom & Jerry |
-| Friction | Three interruptions, each a little harder to bear |
-| Turn | The daughter's overheard line: the "victim" offers grace before the "villain" apologizes |
+| চরিত্র (character) | Father, home office, a deadline and a 5 pm client call |
+| চাওয়া (want) | One quiet hour (echo of the baseline: solitude as habit) |
+| পাল্টা চাওয়া (counter-want) | Son wants him on the sofa, watching Tom & Jerry |
+| বাধা (friction) | Three interruptions, each a little harder to bear |
+| মোড় (turn) | The daughter's overheard line: the "victim" offers grace before the "villain" apologizes |
 
-### Beats
+### ধাপগুলো — beats
 
 1. **Plant (the cartoon).** Late afternoon. Tom & Jerry on the living-room
    TV. The son laughs and cheers whenever Tom gets hit. The daughter is
@@ -60,7 +62,7 @@ never states the theme; the children carry it.
    ambiguity (device 17):** the father can't tell whether he has been
    forgiven or just explained. Both are true. End there.
 
-### Guardrails
+### রক্ষাকড়া — guardrails
 
 - The essay's idea (no pure heroes or villains, everyone has an inner
   story) is never said aloud by the narrator. The daughter's line is the
@@ -71,7 +73,7 @@ never states the theme; the children carry it.
   caption, make it smaller.
 - Keep it to one house and one afternoon. No flashbacks are needed.
 
-### How to use this
+### ব্যবহারের নিয়ম — how to use this
 
 Write beat 4 first: the doorway and the overheard line. Once the turn
 exists, beats 1–3 are just the road to it (device 10, the engineered
@@ -129,7 +131,7 @@ that doesn't feel true to your house.
 
 ### সবার ওপরে তিনটা নিয়ম
 
-- এক বাড়ি, এক বিকেল। ফ্ল্যাশব্যাক লাগবে না।
+- এক বাড়ি, এক বিকেল। আগের ঘটনায় ফেরা (পেছনে-ফেরা) দরকার নেই।
 - জোকার বাদ। টম একাই যথেষ্ট।
 - গল্পের ভাবনাটা বাবা কখনো মুখে বলে না। মেয়ের ছোট্ট কথাটাই একমাত্র জায়গা, যেখানে ভাবনাটা উঁকি দেয়।
 

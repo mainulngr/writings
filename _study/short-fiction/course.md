@@ -18,6 +18,10 @@ write the annotation) → **Write** (the exercise) → `voice-check` →
 artifact lands in `stories/<band>/`. One module = as long as it takes;
 no deadlines.
 
+Craft vocabulary: `paribhasha.md` — every English craft term has a Bangla
+equivalent (নকশা, ধাপ, মোড়, বীজ, রক্ষাকড়া …). Use Bangla terms in
+scaffolds and notes.
+
 ## Module 0 — Baseline
 
 - Write one story *now*, before learning anything — the reference point
