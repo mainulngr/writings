@@ -17,6 +17,13 @@ Consequence: comprehension > generation. Mid-tier models *read* Bangla far
 better than they *write* it. The frontier edge shrinks but doesn't vanish —
 weak Bangla comprehension misreads register (colloquial-warm → "simplistic").
 
+**Refinement (same day):** stories get *shaped* in English too — beats,
+structure, plot discussion — and Mainul authors the Bangla prose himself
+(see the `story` skill's two-phase workflow). That removes Bangla
+generation from the model's job entirely; the English artifact stays at
+blueprint level so the Bangla version is re-authored, not translated. The
+only Bangla-dependent task left is critiquing the finished text.
+
 ## Roles → picks
 
 | Job | Primary | Challenger |

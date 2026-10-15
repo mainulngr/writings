@@ -16,6 +16,18 @@ allowed-tools:
 
 # Story — drafting procedure
 
+## The two-phase workflow (settled 2026-10-15)
+
+1. **Shape in English** — structure, beats, plot discussion, character
+   wants, the turn, key images. The model's side of the table.
+2. **Author in Bangla** — Mainul writes the prose himself. The model's
+   English artifact is a *blueprint, never polished paragraphs*: finished
+   English prose sediments — sentence rhythm and metaphor cadence try to
+   survive the crossing, and Bangla written from finished English reads
+   translated. Beats transfer; prose doesn't.
+3. **Critique the Bengali text** — `voice-check` critique mode on the
+   finished piece; comprehension is enough there.
+
 ## Inputs to read first (always)
 
 1. `_marks/audience-bands.md` — pick the band; it carries word budgets,
