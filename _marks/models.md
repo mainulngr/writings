@@ -8,10 +8,14 @@ status: settled
 
 ## The job split
 
-Mainul curates the final prose — the model is the **editor, not the
-ghostwriter**. What we buy: structure/plot guidance, improve–discard–add
-critique, honest ratings, engagement reads. Conversations in English; the
-story text is Bangla.
+Mainul curates the final prose — and the model is a **co-author, not only
+an editor** (amended 2026-10-15): authorized to draft in his voice when he
+asks, to "write the words he would have written had the 2012→now
+continuity been real". The counterfactual writer is an approximation —
+it lives in `voice.md` + `style-examples.md` + the corpus itself, and the
+correction/verdict loop tightens it. What we buy: drafts he can own,
+structure/plot guidance, improve–discard–add critique, honest ratings,
+engagement reads. Conversations in English; the story text is Bangla.
 
 Consequence: comprehension > generation. Mid-tier models *read* Bangla far
 better than they *write* it. The frontier edge shrinks but doesn't vanish —
@@ -32,6 +36,7 @@ only Bangla-dependent task left is critiquing the finished text.
 | Deep critique / capstones | `claude-opus-5-5`, `claude-fable-5-1` | `gpt-6-astra` |
 | Ops — sweeps, moves, brain chores | `swe` (Devin, current) | CMD free tiers, `deepseek-v4.1-flash-fast` |
 | Cheap critique challenger | `deepseek-v4-pro` or `kimi-k3` | — |
+| Co-drafting (Bangla prose, on request) | `claude-opus-5-5` (Devin) | `gemini-4-argon`, `gpt-6-astra` |
 
 Split rule: **by output language, not importance** — Bangla prose
 generation → frontier; analysis, audit, housekeeping → cheap tier.
@@ -60,6 +65,27 @@ generation → frontier; analysis, audit, housekeeping → cheap tier.
 **Attribution convention:** when a model-drafted version lands in a corpus
 file, label it with the model id — `## Suggested rewrite (Devin ·
 swe-2-max)` — so parallel A/B versions stay attributable.
+
+## First evidence (2026-10-15 — `_baseline.md` six-way)
+
+Same brief, six versions landed. Observed, not assumed:
+
+- **opus-5-5**: added emotional material — new images (the house growing
+  when siblings leave, son's hands gripping the shirt), a lightened-ending
+  reframe. The only version that behaved as co-author. Register drifts
+  slightly more polished-literary than his — lift the beats, not the text.
+- **sonnet-5-5**: faithful clean edit, fixed geography/seam; over-stated
+  the reveal. Adds clarity.
+- **gemini-4-argon**: decent texture but register tilts bookish
+  (বালিয়াড়ি, মনের গহীনে) vs his conversational calm. Adds texture.
+- **deepseek-v4-pro**: reshaped the frame (reverie opening), clean seam
+  fix; stayed inside the given structure. Rearranges.
+- **kimi-k3**: near-verbatim copyedit — fixed typos, engaged nothing.
+  Polishes.
+- Pattern: **open models polish or rearrange; frontier models add.** At
+  this task, on this evidence: opus-5-5 ≈ $0.05/piece, and earns it.
+- CMD note: Claude ids are plan-gated there (sonnet needs GOAT+, opus
+  Provider+) — Devin's roster carries them fine headless.
 
 ## The A/B that settles it
 
