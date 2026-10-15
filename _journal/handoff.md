@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-15 (reorg + skill set)
+updated: 2026-10-15 (model roles documented)
 ---
 
 # Handoff — writings
@@ -39,6 +39,12 @@ updated: 2026-10-15 (reorg + skill set)
 - Children's & teens registers are open questions in `_marks/voice.md` —
   settled 2026-10-15 to earn them pieces-first: the first 2–3 real
   stories/spreads will be distilled into register rules.
+- Model roles settled → `_marks/models.md` (dated): editor-not-ghostwriter
+  split — sonnet-5-5 default critique, opus-5-5/fable-5-1 deep tier,
+  swe + CMD free tiers for ops. `voice-check` gained a critique mode
+  (improve/discard/add + rating + voice-cost-labeled engagement reads).
+  Open: run the `brishtir_opokkha` critique A/B across the tiers before
+  paying for one.
 - Media staged in `_warehouse/assets/` (unversioned, on disk only — purged from
   git history 2026-10-15). Permanent home undecided — options: keep staging,
   an attic layer (tracked loose storage), or a data repo. Repo is now

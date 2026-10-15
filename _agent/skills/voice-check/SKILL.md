@@ -4,8 +4,10 @@ description: >-
   Audit any draft in this corpus against the voice mark and audience bands —
   the shared final pass for fb-post, story, picture-book, and blog-post, or
   standalone review of an existing file. Reports violations with line refs
-  and minimal fixes instead of rewriting. Triggers: "check this", "voice
-  check", "does this sound like me", "review draft", "polish".
+  and minimal fixes instead of rewriting. Critique mode adds an editorial
+  memo: improve / discard / add + honest rating + engagement reads labeled
+  by voice cost. Triggers: "check this", "voice check", "does this sound
+  like me", "review draft", "polish", "critique", "improve this".
 allowed-tools:
   - read
   - grep
@@ -43,6 +45,24 @@ checkpoints — when the two disagree, the mark wins.
 - Short report: ✓/✗ per checkpoint with line references, then minimal
   suggested edits — smallest change that fixes the violation.
 - Do not rewrite whole passages unless asked; Mainul keeps his sentences.
+
+## Critique mode — the editor's memo
+
+A craft-level pass, distinct from the voice audit — for stories and longer
+pieces. Output in English; the piece stays untouched (no edits). Run the
+voice audit first, then this.
+
+1. **Improve** — what's working but under-delivered (structure, pacing,
+   character, ending); the smallest change that unlocks it.
+2. **Discard** — what weakens the piece: redundant beats, explained
+   emotions, dead scenes. Cite lines.
+3. **Add** — what's missing: a beat, a sensory anchor, a turn, a breath.
+4. **Honest rating** — a real number (/10) with the evidence. No flattery.
+5. **Engagement read** — attention mechanics only (hook strength, loops,
+   payoff). Each suggestion carries a **voice-cost** label: what the lift
+   would trade away in register. Declining the lift is a valid verdict.
+
+Never rewrite — Mainul curates the final prose; this is the editor's memo.
 
 ## Feeding the voice
 

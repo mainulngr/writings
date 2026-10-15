@@ -35,6 +35,8 @@ trigger: always_on
 - `_marks/audience-bands.md` — age calibration table (board|picture|early-reader, teens, adult).
 - `_marks/style-examples.md` — reference posts for calibration.
 - `_marks/posting-schedule-bd.md` — posting windows, BD audience (UTC+6).
+- `_marks/models.md` — model role picks across Devin + Command Code
+  rosters (editor-not-ghostwriter split; dated — rosters churn).
 
 ## Conventions
 
