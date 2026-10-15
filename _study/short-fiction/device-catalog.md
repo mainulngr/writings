@@ -175,6 +175,13 @@ real exemplars surface; never seeded from hearsay.
 - **Re-siting seed:** Bangla two-line stories; a ছড়া-shaped micro-fiction
   series.
 
+## Corpus availability
+
+Acquired PD texts live in `data/corpora/{bangla,world}/…`; the map —
+acquired vs acquire-legally — is `data/derived/corpora-index.md`
+(landed 2026-10-15: Tagore, Sarat Chandra, Chekhov, O. Henry, Aesop,
+Jataka).
+
 ## Using the catalog
 
 - Pick one device → read the exemplar → annotate the mechanism → write a
