@@ -26,8 +26,11 @@ does it fix the audience, does it preserve reach, what does it cost.
 - **2013 profile** — active, cluttered friend list, existing reach.
 - **`mainulsq` page** — exists, carries his name. Unknown history/follower
   count (open question below). Public storefront candidate.
-- **Anon page (potential)** — would be a *new*, unnamed page — `mainulsq`
-  is named, so it can never be the anonymous lane.
+- **`Onkur Notes` page** — exists, tied to the Onkur Labs brand umbrella.
+  A *persona* page: not anonymous, but not his personal name either —
+  the middle lane between "writing as me" and "writing hidden".
+- **Anon page (potential)** — would be a *new*, unnamed page for the
+  truly sensitive tier only.
 
 ## Mechanics that matter
 
@@ -53,31 +56,37 @@ does it fix the audience, does it preserve reach, what does it cost.
 - **Anonymous page** — solves the uncomfortable-topics lane only; useless
   reach for launching the main corpus.
 
-## Working lean (revised 2026-10-15, v2 — page enters)
+## Working lean (revised 2026-10-15, v3 — Onkur enters)
 
-Three lanes, not four — each asset gets exactly one job:
+Each asset gets exactly one job; a piece of content lives in one lane,
+declared by its nature:
 
 - **`mainulngr` (2009 profile) = the engine.** Followers-first publishing;
-  friends earned by the writing, not collected. Strong organic reach +
-  intimacy. ToS duplicate caveat stands.
-- **`mainulsq` (existing page) = the storefront.** The canonical public
-  surface under his name — best pieces re-published there, linkable,
-  metrics-rich. Crucially it is the **hedge**: if FB ever flags the
-  duplicate profile, the public writing presence survives on the page.
-- **2013 profile = life/social + bridge.** Keep as-is; occasional subtle
-  bridging toward the page/profile (hard-linking the two same-name
-  profiles advertises the duplicate — go gentle).
-- **Anon lane = new unnamed page, later.** When uncomfortable-topic drafts
-  accumulate. Never `mainulsq` — it's named.
+  friends earned by the writing, not collected. The literary corpus's
+  home — gentle, reflective, intimate. ToS duplicate caveat stands.
+- **`mainulsq` page = the storefront.** Canonical public surface under
+  his name; best-of re-published. Also the **hedge**: if FB flags the
+  duplicate profile, the public presence survives here.
+- **`Onkur Notes` page = the studio voice.** The middle lane: sharper
+  commentary, tech/social critique, build-in-public — content that's
+  "uncomfortable but not dangerous". Absorbs most of what the anon lane
+  would have carried, pushing true anonymity further out.
+- **2013 profile = life/social + gentle bridge.**
+- **Anon lane = new unnamed page, only for the truly sensitive tier**
+  (e.g. the religious questions lane) — smaller now that Onkur Notes
+  exists.
 
-Flow: draft in corpus → publish on `mainulngr` → best-of re-posted to
-`mainulsq` → anon page inherits the hidden lane when it earns it.
+Flow: draft in corpus → lane by nature → `mainulngr` for the literary
+corpus → best-of to `mainulsq` → Onkur Notes for studio content → anon
+page when the sensitive tier earns it.
 
 ## Open sub-questions
 
-- What's on `mainulsq` now — followers, history, prior content? Head
-  start vs fresh start changes its weight.
-- Which topics actually need anonymity? (religious questions? social
-  critique?) — sizing that lane decides when the page earns its place.
-- How visible should the 2013→2009 bridge be, given the duplicate-account
-  exposure?
+- **Is Onkur Notes for this corpus or for the products?** If Onkur Labs
+  is the software brand, pouring gentle Bangla literature into Onkur
+  Notes dilutes both. Likely: studio/tech essays fit it; the reflective
+  corpus does not. Decide its charter before posting.
+- What's on `mainulsq` now — followers, history? Head start vs fresh.
+- Which topics need true anonymity? — the tier shrinks with Onkur Notes
+  absorbing the merely-uncomfortable.
+- How visible should the 2013→2009 bridge be, given duplicate exposure?
