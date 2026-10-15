@@ -20,7 +20,8 @@ updated: 2026-10-15 (model roles documented)
   corpus landed (`data/corpora/` 20 texts, index at
   `data/derived/corpora-index.md`). Course STARTED 2026-10-15: Module 0
   baseline assigned — Mainul writes `stories/adult/_baseline.md`
-  (any subject, any length, uncontaminated); on delivery run voice-check
+  (any subject, any length, any form — post-shaped acceptable; the
+  critique reads the fiction gap either way); on delivery run voice-check
   + critique mode to build the starting profile that sequences Modules
   1–7.
 
