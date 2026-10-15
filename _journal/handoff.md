@@ -27,6 +27,8 @@ updated: 2026-10-15 (reorg + skill set)
 ## Open threads
 
 - Reach logging (per `_marks/posting-schedule-bd.md`) not yet started — begin with the next posted piece.
+- `social-pipeline` idea is `exploring` — lean: on-demand batch + verdict
+  queue (L2), not scheduled autonomy; a `social-pipeline` skill if built.
 - `fb-campaign-home` idea is `exploring` — working lean v3: `mainulngr`
   engine · `mainulsq` storefront+hedge · `Onkur Notes` studio voice ·
   anon page only for the truly sensitive tier. Awaiting Mainul's decision.

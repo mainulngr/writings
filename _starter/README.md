@@ -15,3 +15,5 @@ reviewed: "2026-10-15 15:54"
 
 - `fb-campaign-home/` — which FB account carries the writing campaign
   (profile vs profile vs anon page vs lanes).
+- `social-pipeline/` — semi-automated idea generation + verdict queue for
+  social posts (agent drafts, Mainul sweeps, approved ones flow on).
