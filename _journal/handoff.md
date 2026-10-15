@@ -27,6 +27,9 @@ updated: 2026-10-15 (reorg + skill set)
 ## Open threads
 
 - Reach logging (per `_marks/posting-schedule-bd.md`) not yet started — begin with the next posted piece.
+- Children's & teens registers are open questions in `_marks/voice.md` —
+  settled 2026-10-15 to earn them pieces-first: the first 2–3 real
+  stories/spreads will be distilled into register rules.
 - Media staged in `_warehouse/assets/` (unversioned, on disk only — purged from
   git history 2026-10-15). Permanent home undecided — options: keep staging,
   an attic layer (tracked loose storage), or a data repo. Repo is now

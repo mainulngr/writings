@@ -43,3 +43,10 @@ checkpoints — when the two disagree, the mark wins.
 - Short report: ✓/✗ per checkpoint with line references, then minimal
   suggested edits — smallest change that fixes the violation.
 - Do not rewrite whole passages unless asked; Mainul keeps his sentences.
+
+## Feeding the voice
+
+- When Mainul edits a draft after your audit, distill the edit: what changed
+  and what rule does it imply? The *second* time the same correction
+  appears, propose it as a `_marks/voice.md` edit — offer it, never apply
+  silently.

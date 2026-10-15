@@ -44,3 +44,5 @@ allowed-tools:
 - Run the `voice-check` skill on the draft before showing it.
 - After Mainul posts it: append time posted + rough reach to the slot
   section — that log is what tunes the schedule mark over time.
+- If a published piece feels right to him, offer to canonize it into
+  `_marks/style-examples.md` — exemplars are how voice rules get earned.

@@ -49,3 +49,5 @@ status: draft | published
 
 - Run `voice-check`. Blog-specific extra: no lecture voice — observe,
   don't instruct.
+- If a published piece lands well, offer to canonize it into
+  `_marks/style-examples.md`.

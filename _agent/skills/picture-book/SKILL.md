@@ -55,3 +55,9 @@ Subject · composition · mood · palette · where the text sits
 - Read-aloud test on every line: it must land well spoken, at bedtime pace.
 - The art brief is a contract for an illustrator or image model — concrete
   subjects, lighting, and palette, no style-drift mid-book.
+
+## After drafting
+
+- Finished/approved spreads: offer canonization into
+  `_marks/style-examples.md` — the children's register in `voice.md` is
+  deliberately unsettled; real spreads are how it gets earned.

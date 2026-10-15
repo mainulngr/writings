@@ -45,3 +45,6 @@ allowed-tools:
 
 - Run `voice-check` — it audits both register and band fit.
 - Read-aloud pass for `children` band: every sentence must work spoken.
+- When a finished piece is approved, offer to canonize it into
+  `_marks/style-examples.md` — the children/teens registers in `voice.md`
+  are deliberately unsettled; real pieces are how they get earned.
