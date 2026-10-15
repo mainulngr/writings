@@ -1,5 +1,5 @@
 ---
-reviewed: "2026-10-15 15:35"
+reviewed: "2026-10-15 15:54"
 ---
 
 # Starter — what we might do
@@ -10,3 +10,8 @@ reviewed: "2026-10-15 15:35"
   move to the file's `## Decided against` tail.
 - Post/story topics also feed the `fb-post`, `story`, and `blog-post`
   skills — they offer backlog candidates when no topic is given.
+
+## Folders
+
+- `fb-campaign-home/` — which FB account carries the writing campaign
+  (profile vs profile vs anon page vs lanes).

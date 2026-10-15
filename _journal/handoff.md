@@ -27,6 +27,9 @@ updated: 2026-10-15 (reorg + skill set)
 ## Open threads
 
 - Reach logging (per `_marks/posting-schedule-bd.md`) not yet started — begin with the next posted piece.
+- `fb-campaign-home` idea is `exploring` — working lean: 2009 profile as
+  writing home, 2013 as life, anon page later when uncomfortable topics
+  accumulate. Awaiting Mainul's decision.
 - Children's & teens registers are open questions in `_marks/voice.md` —
   settled 2026-10-15 to earn them pieces-first: the first 2–3 real
   stories/spreads will be distilled into register rules.
