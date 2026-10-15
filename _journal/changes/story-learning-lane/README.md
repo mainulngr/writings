@@ -33,7 +33,10 @@ course feeds the corpus.
 - Corpus ethics line: reference/study only; adaptation means learning +
   cultural translation, never republication.
 - **Pivot (2026-10-15):** slow, curated, step-by-step. World-literature
-  device imports are the lane's heart — `_study/short-fiction/
-  device-catalog.md` seeded with 10 entries. No bulk corpus; platforms
-  deprioritized (Pratilipi saturated-ordinary); APK teardowns deferred
-  (maybe Commaful later for format only).
+  device imports are the lane's heart — `device-catalog.md` seeded.
+  No bulk corpus; APK teardowns deferred (maybe Commaful later for
+  format only).
+- **Correction (same day):** world lit includes Bangla — three rings:
+  classics + translations + modern highly-rated. Added 6 Bangla entries
+  (Tagore→Humayun); Pratilipi's rated cream is fair game for dissection,
+  only its average stays deprioritized.

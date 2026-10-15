@@ -49,19 +49,24 @@ Continue — the lane is real, the whitespace is genuine, and his existing
 styled-variant habit already lives at the micro-fiction boundary. The
 course must teach structure, not just mood — mood he already has.
 
-## Recalibration (2026-10-15)
+## Recalibration (2026-10-15, v2)
 
-Mainul redirected the lane: **world-literature device imports over
-platform recon.** Pratilipi-type ecosystems confirmed saturated with the
-ordinary — deprioritized. No Bengali-source requirement: English/world
-literature is the study material; the work is re-siting apparatus in his
-culture, not translation. Corpus stays *curated and small* — no bulk
-collection. The `device-catalog.md` becomes the lane's core artifact.
+Mainul redirected the lane twice: (1) **world-literature device imports
+over platform recon** — the apparatus, not translations; corpus curated
+and small, no bulk collection. (2) **World lit includes Bangla** — the
+catalog runs three rings: Bangla classics (deep structure, home register),
+world lit via translation (devices Bangla lacks), modern highly-rated
+Bangla (contemporary register; ratings = taste signal, dissect for *why
+they hit*). Pratilipi's *average* is saturated-ordinary and stays
+deprioritized; its rated cream is fair game. `device-catalog.md` is the
+lane's core artifact.
 
 ## Next recon
 
 - [ ] Curated exemplar sourcing — PD texts first (Gutenberg Chekhov,
-      O. Henry, Aesop, Panchatantra) → `data/corpora/`, a few at a time.
-- [ ] Manual FB recon — optional, low priority.
+      O. Henry, Aesop, Panchatantra, Tagore's English canon, Sarat
+      Chandra) → `data/corpora/`, a few at a time.
+- [ ] Rated-cream spotting — when a modern Bangla story is notably
+      rated/shared, capture it for dissection (both craft + audience pull).
 - [ ] APK teardowns — deferred; only Commaful might still earn one later
       for the *format* (page-turn micro-fiction), not the content.

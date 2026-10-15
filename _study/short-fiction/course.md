@@ -94,10 +94,10 @@ no deadlines.
 
 ## The adaptation principle
 
-We don't look for Bangla stories to copy — we import the *apparatus*
-from world literature and re-site it in Bangla culture. `device-catalog.md`
-is the spine: each module picks 1–2 devices, reads the exemplar, then the
-exercise is the same setup retold in his own culture and language.
-Public-domain texts where possible (Chekhov, O. Henry, Aesop,
-Panchatantra); modern masters via library/purchase. Platform fiction
-(Pratilipi-type) is deliberately out — saturated with the ordinary.
+We import the *apparatus* — premise, structure, turn, constraint — never
+the content. `device-catalog.md` is the spine, and it runs three rings:
+Bangla classics (structure in the home register), world literature via
+translation (devices Bangla lacks), modern highly-rated Bangla (the
+contemporary register — dissected for *why they hit*). Each module picks
+1–2 devices, reads the exemplar, and the exercise is the same setup
+retold in his own culture and language.
