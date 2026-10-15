@@ -24,7 +24,10 @@ does it fix the audience, does it preserve reach, what does it cost.
   profiles he wants. That silence is an asset, not just absence. First
   account — he feels attached to it.
 - **2013 profile** — active, cluttered friend list, existing reach.
-- **Page (potential)** — anonymous-capable, metrics, scheduling.
+- **`mainulsq` page** — exists, carries his name. Unknown history/follower
+  count (open question below). Public storefront candidate.
+- **Anon page (potential)** — would be a *new*, unnamed page — `mainulsq`
+  is named, so it can never be the anonymous lane.
 
 ## Mechanics that matter
 
@@ -50,26 +53,30 @@ does it fix the audience, does it preserve reach, what does it cost.
 - **Anonymous page** — solves the uncomfortable-topics lane only; useless
   reach for launching the main corpus.
 
-## Working lean (revised 2026-10-15)
+## Working lean (revised 2026-10-15, v2 — page enters)
 
-- **2009 profile = the writing home — followers-first.** Publish now with
-  zero friends; followers ≠ friends, so the sanctuary is preserved while
-  the writing gains a channel.
-- **Friends are earned, not collected.** Don't cold-request on hope of fit
-  (that's how 2013 happened). Convert to friends only people who prove
-  they read well — every friend then opted in via the writing itself.
-- **Set inbound rules before the first friend** — comment scope, message
-  filtering — so the account never recreates the original noise.
-- **2013 profile = life/social.** Bridge occasionally; note that
-  hard-linking two same-name profiles advertises the duplicate to FB —
-  subtle bridging or none is safer.
-- **Anon page = third lane, later.** Open when uncomfortable-topic drafts
-  accumulate; the corpus can hold those pieces now.
-- Fallback if ToS risk bothers: stay on 2013, carve a writing list with
-  audience selectors — works, but the friction stays forever.
+Three lanes, not four — each asset gets exactly one job:
+
+- **`mainulngr` (2009 profile) = the engine.** Followers-first publishing;
+  friends earned by the writing, not collected. Strong organic reach +
+  intimacy. ToS duplicate caveat stands.
+- **`mainulsq` (existing page) = the storefront.** The canonical public
+  surface under his name — best pieces re-published there, linkable,
+  metrics-rich. Crucially it is the **hedge**: if FB ever flags the
+  duplicate profile, the public writing presence survives on the page.
+- **2013 profile = life/social + bridge.** Keep as-is; occasional subtle
+  bridging toward the page/profile (hard-linking the two same-name
+  profiles advertises the duplicate — go gentle).
+- **Anon lane = new unnamed page, later.** When uncomfortable-topic drafts
+  accumulate. Never `mainulsq` — it's named.
+
+Flow: draft in corpus → publish on `mainulngr` → best-of re-posted to
+`mainulsq` → anon page inherits the hidden lane when it earns it.
 
 ## Open sub-questions
 
+- What's on `mainulsq` now — followers, history, prior content? Head
+  start vs fresh start changes its weight.
 - Which topics actually need anonymity? (religious questions? social
   critique?) — sizing that lane decides when the page earns its place.
 - How visible should the 2013→2009 bridge be, given the duplicate-account
