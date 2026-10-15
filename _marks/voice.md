@@ -30,6 +30,7 @@ status: living
 
 ## Writing tone
 - Mostly Bangla, with light use of English words/phrases where natural.
+- Bangla typography: দাড়ি (।) attaches directly to the last word — no space before it.
 - Calm, reflective, slightly poetic; prefers short, clear lines over long complex sentences.
 - Soft, non-preachy; usually avoids direct আমি/তুমি and prefers more universal subjects like মানুষ, লোকজন, or আমরা instead of pointing at a single person.
 - Often uses metaphors from sky, universe, quiet mornings, nights, etc.
