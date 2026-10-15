@@ -179,8 +179,10 @@ real exemplars surface; never seeded from hearsay.
 
 Acquired PD texts live in `data/corpora/{bangla,world}/…`; the map —
 acquired vs acquire-legally — is `data/derived/corpora-index.md`
-(landed 2026-10-15: Tagore, Sarat Chandra, Chekhov, O. Henry, Aesop,
-Jataka).
+(20 texts as of 2026-10-15: the Bangla + canon ring, plus a
+non-canonical tranche — Kafka, the Russian sampler, Saki, Arabian
+Nights, Irving, Pu Songling, Hearn, Wilde, Kipling, Bierce, Wells,
+Dunsany).
 
 ## Using the catalog
 
