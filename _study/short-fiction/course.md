@@ -92,9 +92,12 @@ no deadlines.
 - After module 7: distill earned children's-register observations into
   `voice.md` (closes that open question if the pieces were children's).
 
-## Reading spine (corpus to source)
+## The adaptation principle
 
-- Bangla masters (public domain): Tagore's Golpoguchho selections —
-  structure in its native register; Parashuram for compression+wit.
-- Flash anthologies + platform samples → `data/corpora/` (reference only).
-- Own corpus: every story written becomes a dissectable exemplar.
+We don't look for Bangla stories to copy — we import the *apparatus*
+from world literature and re-site it in Bangla culture. `device-catalog.md`
+is the spine: each module picks 1–2 devices, reads the exemplar, then the
+exercise is the same setup retold in his own culture and language.
+Public-domain texts where possible (Chekhov, O. Henry, Aesop,
+Panchatantra); modern masters via library/purchase. Platform fiction
+(Pratilipi-type) is deliberately out — saturated with the ordinary.

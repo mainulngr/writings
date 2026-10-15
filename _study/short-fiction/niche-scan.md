@@ -49,11 +49,19 @@ Continue — the lane is real, the whitespace is genuine, and his existing
 styled-variant habit already lives at the micro-fiction boundary. The
 course must teach structure, not just mood — mood he already has.
 
+## Recalibration (2026-10-15)
+
+Mainul redirected the lane: **world-literature device imports over
+platform recon.** Pratilipi-type ecosystems confirmed saturated with the
+ordinary — deprioritized. No Bengali-source requirement: English/world
+literature is the study material; the work is re-siting apparatus in his
+culture, not translation. Corpus stays *curated and small* — no bulk
+collection. The `device-catalog.md` becomes the lane's core artifact.
+
 ## Next recon
 
-- [ ] APK teardowns (needs jadx/apktool): Pratilipi, Commaful, Galatea,
-      Wattpad — data model, content format, serialization, monetization.
-- [ ] Manual FB recon: which Bangla golpo pages exist, their post shapes,
-      engagement patterns.
-- [ ] Corpus sourcing: public-domain Bangla classics (Tagore-era onward),
-      flash anthologies → `data/corpora/`.
+- [ ] Curated exemplar sourcing — PD texts first (Gutenberg Chekhov,
+      O. Henry, Aesop, Panchatantra) → `data/corpora/`, a few at a time.
+- [ ] Manual FB recon — optional, low priority.
+- [ ] APK teardowns — deferred; only Commaful might still earn one later
+      for the *format* (page-turn micro-fiction), not the content.

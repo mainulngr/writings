@@ -16,11 +16,10 @@ updated: 2026-10-15 (reorg + skill set)
 
 ## Active changes
 
-- `story-learning-lane` (active) — niche scan first pass done
-  (`_study/short-fiction/niche-scan.md`), course drafted
-  (`_study/short-fiction/course.md`), `data` → `/mega/mountain/writings`
-  wired. Next: APK teardowns need jadx/apktool installed; course starts
-  at Module 0 when Mainul says go.
+- `story-learning-lane` (active) — recalibrated slow+curated: world-lit
+  device imports (`_study/short-fiction/device-catalog.md`, 10 seeded)
+  over platform recon; APK teardowns deferred. Course starts at
+  Module 0 when Mainul says go.
 
 ## Start here
 

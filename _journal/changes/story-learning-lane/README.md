@@ -32,3 +32,8 @@ course feeds the corpus.
   ছোটগল্প/ছোট গল্প, never চটি.
 - Corpus ethics line: reference/study only; adaptation means learning +
   cultural translation, never republication.
+- **Pivot (2026-10-15):** slow, curated, step-by-step. World-literature
+  device imports are the lane's heart — `_study/short-fiction/
+  device-catalog.md` seeded with 10 entries. No bulk corpus; platforms
+  deprioritized (Pratilipi saturated-ordinary); APK teardowns deferred
+  (maybe Commaful later for format only).
