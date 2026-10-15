@@ -34,7 +34,7 @@ only Bangla-dependent task left is critiquing the finished text.
 |---|---|---|
 | Editor/mentor (default) | `claude-sonnet-5-5` (CMD) | — |
 | Deep critique / capstones | `claude-opus-5-5`, `claude-fable-5-1` | `gpt-6-astra` |
-| Ops — sweeps, moves, brain chores | `swe` (Devin, current) | CMD free tiers, `deepseek-v4.1-flash-fast` |
+| Ops — sweeps, moves, brain chores | `swe` (Devin) | CMD free tiers, `deepseek-v4.1-flash-fast` |
 | Cheap critique challenger | `deepseek-v4-pro` or `kimi-k3` | — |
 | Co-drafting (Bangla prose, on request) | `claude-opus-5-5` (Devin) | `gemini-4-argon`, `gpt-6-astra` |
 
@@ -64,7 +64,9 @@ generation → frontier; analysis, audit, housekeeping → cheap tier.
 
 **Attribution convention:** when a model-drafted version lands in a corpus
 file, label it with the model id — `## Suggested rewrite (Devin ·
-swe-2-max)` — so parallel A/B versions stay attributable.
+claude-opus-5-5-medium)` — so parallel A/B versions stay attributable.
+Verify the running model before labeling (the session's own model, not
+an assumed default) — the baseline's first label was wrong and corrected.
 
 ## First evidence (2026-10-15 — `_baseline.md` six-way)
 
@@ -82,6 +84,10 @@ Same brief, six versions landed. Observed, not assumed:
   fix; stayed inside the given structure. Rearranges.
 - **kimi-k3**: near-verbatim copyedit — fixed typos, engaged nothing.
   Polishes.
+- The "Suggested rewrite" in the file is also opus-5-5 (this session),
+  but under a *minimal-edit* brief — so the two opus versions show the
+  same model under two briefs, not two models. Brief shapes the output
+  as much as model choice does.
 - Pattern: **open models polish or rearrange; frontier models add.** At
   this task, on this evidence: opus-5-5 ≈ $0.05/piece, and earns it.
 - CMD note: Claude ids are plan-gated there (sonnet needs GOAT+, opus

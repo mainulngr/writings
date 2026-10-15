@@ -19,7 +19,7 @@ status: draft
 
 একাকীত্ব আসলে একটা অভস্ততার নাম। এক ধরণের নেশা। সবার মাঝে থেকেও নেশাসক্ত হয়ে থাকা যায় থাকলে ভালো লাগে হয়তো।
 
-## Suggested rewrite (Devin · swe-2-max)
+## Suggested rewrite (Devin · claude-opus-5-5-medium, minimal-edit brief)
 
 দুদিন হলো কক্সবাজার এসেছি, একা। একা শব্দটা বেশ ছোট, ওজন আর ব্যপ্তি ভীষণরকম ভিন্ন হতে পারে।
 
