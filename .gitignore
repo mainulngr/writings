@@ -1,0 +1,7 @@
+# OS junk
+.DS_Store
+Thumbs.db
+._*
+
+# Brain staging (created on demand, never versioned)
+_warehouse/
