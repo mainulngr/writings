@@ -57,6 +57,10 @@ generation → frontier; analysis, audit, housekeeping → cheap tier.
   engagement suggestion carries a **voice-cost** label (see `voice-check`
   critique mode). Declining a lift to protect register is a valid verdict.
 
+**Attribution convention:** when a model-drafted version lands in a corpus
+file, label it with the model id — `## Suggested rewrite (Devin ·
+swe-2-max)` — so parallel A/B versions stay attributable.
+
 ## The A/B that settles it
 
 Same existing story (`stories/adult/brishtir_opokkha.md`) through
