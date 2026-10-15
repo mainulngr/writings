@@ -25,6 +25,9 @@ trigger: always_on
 - `books/<slug>/` — one folder per illustrated book (README · spreads.md · art/).
 - `_warehouse/assets/` — media library (img/audio/video used in posts), gitignored staging, unversioned; `Makefile` inside holds one-off ffmpeg snippets. Permanent home undecided (see handoff).
 - `_starter/idea_backlog.md` — idea capture, one line per idea.
+- `_study/` — research subjects (`short-fiction/` = niche scan + course).
+- `data` → symlink to `/mega/mountain/writings/` — corpora, teardown
+  artifacts, derived catalogs (own git inside; educational reference only).
 
 ## Key marks
 
