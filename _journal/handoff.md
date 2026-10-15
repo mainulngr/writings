@@ -16,10 +16,13 @@ updated: 2026-10-15 (model roles documented)
 
 ## Active changes
 
-- `story-learning-lane` (active) — recalibrated slow+curated: world-lit
-  device imports (`_study/short-fiction/device-catalog.md`, 10 seeded)
-  over platform recon; APK teardowns deferred. Course starts at
-  Module 0 when Mainul says go.
+- `story-learning-lane` (active) — catalog now 16 devices, three rings;
+  corpus landed (`data/corpora/` 20 texts, index at
+  `data/derived/corpora-index.md`). Course STARTED 2026-10-15: Module 0
+  baseline assigned — Mainul writes `stories/adult/_baseline.md`
+  (any subject, any length, uncontaminated); on delivery run voice-check
+  + critique mode to build the starting profile that sequences Modules
+  1–7.
 
 ## Start here
 
