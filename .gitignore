@@ -5,3 +5,6 @@ Thumbs.db
 
 # Brain staging (created on demand, never versioned)
 _warehouse/
+
+# Machine-managed agent learning data (rewritten every session, never curated)
+.commandcode/taste/
