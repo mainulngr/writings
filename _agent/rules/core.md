@@ -37,6 +37,8 @@ trigger: always_on
 - `_marks/posting-schedule-bd.md` — posting windows, BD audience (UTC+6).
 - `_marks/models.md` — model role picks across Devin + Command Code
   rosters (editor-not-ghostwriter split; dated — rosters churn).
+- `_marks/production.md` — how a children's piece becomes a published book;
+  points at the onkurreads product marks (shelf, audio/art, rights).
 
 ## Conventions
 
