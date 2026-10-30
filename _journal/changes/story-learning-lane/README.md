@@ -54,3 +54,13 @@ Mainul flagged two beats in opus-5-5's baseline rewrite as the level he
 wants to reach himself: the held ambiguity ("কখনো শান্তি, কখনো ক্লান্তি")
 and the callback payoff (hiding son returns to lighten the নেশা). Cataloged
 as devices 17–18 — practice targets, not just admired lines.
+
+## First modern-vernacular exemplar (2026-10-30)
+
+Mainul brought Muhammad Shahriar Kabir's `#অক্টবরের_ভেন্টিলেটর`
+(Facebook, Oct 2026) — a doctor's account of a friend's mother dying in
+ICU while the son stays abroad. Cataloged as device 19, the reasonable
+refusal: the son's excuses are all true, the text never accuses him, the
+reader convicts. Excerpt + dissection in `device-catalog.md`; copyrighted,
+study-only, never republish. It is also the strongest local proof that
+the Tom/Jerry thesis works as a scene rather than an argument.

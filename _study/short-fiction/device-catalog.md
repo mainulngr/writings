@@ -83,6 +83,100 @@ authors publishing on FB, Prothom Alo-type venues), dissect it twice —
 once for craft, once for *why the audience bit*. Entries get added as
 real exemplars surface; never seeded from hearsay.
 
+### 19. The reasonable refusal
+- **Exemplar:** Muhammad Shahriar Kabir, `#অক্টবরের_ভেন্টিলেটর`
+  (Facebook, Oct 2026 — a doctor's first-person account of a friend's
+  mother dying in ICU while the son stays in Washington).
+  **Study-only: copyrighted post, excerpted here for craft analysis.
+  Never republish; read the original on the author's profile.**
+- **Device:** a character refuses a moral obligation using reasons that are
+  every one of them *true* — ticket prices, an unfinished mortgage, a job
+  market that will not take him back. The text never accuses him. The reader
+  does the convicting. Nobody is a villain; the system is, and it is
+  invisible.
+- **Why it fits:** this is his Tom/Jerry thesis executed instead of argued —
+  the "villain" is a tired man with real constraints. Also the strongest
+  available proof that this register works *on Facebook*, in Bangla, with no
+  literary costume.
+
+#### The excerpt that carries it
+
+> রাত প্রায় একটা, এনিউরিজমে ক্লিপটা দেয়া শেষ, ডুরা ক্লোজ করতে দিয়ে
+> মাইক্রোস্কোপ থেকে চোখ সরিয়ে বসলাম, মাথা ভনভন করছে।
+
+> - দোস্ত, শোন, আম্মা খুব অসুস্থ, এখন তোর ওখানে নিয়ে আসলে ভর্তি করে
+>   দিতে পারবি?
+> …
+> - কেউ নাই তো, কাগজপত্র সাইন করা লাগলে তুই করে দে, আর টাকাপয়সার
+>   টেনশন করিস না, আমি কালকে তোর একাউন্টে পাঠায় দিচ্ছি।
+
+> লং স্টোরি শর্ট, ভেন্টিলেটরে সাত দিন কেটে গেলো … গোমড়া মুখে সকালে
+> একজন, বিকালে একজন কেয়ারটেকার ফেসবুক খুলে বসে থাকে ওয়েটিং রুমে।
+
+> - ফাহিম, তুই বরং আয়।
+> - দোস্ত, ভালো হবে না?
+> - সম্ভাবনা কম।
+> - তাহলে আর এসে কি করবো?
+> - আসবি না? দেখা করবি না?
+> - টিকিটের দাম অনেক বাড়ছে রে, মিডল ইস্টের গ্যাঞ্জাম। বাড়ির মর্টগেজ
+>   শেষ হয়নি, জব মার্কেটের অবস্থা ভালো না, এখন জব ছেড়ে আসলে আর সহজে
+>   জব পাবোনা!
+
+> এককালের সুপার ব্রিলিয়ান্ট সুপার ট্যালেন্টেড সফটওয়্যার ইঞ্জিনিয়ার
+> ফাহিমের কন্ডিশন এত হার্ড হলে কেমনে কি?
+
+> কেউই কিছু বলছিনা, কিন্তু সবাই সব শুনতে পাচ্ছি… এখনই কেউ চিৎকার করে
+> উঠবে, "ফাহিম, সিগারেট ফালাইতে বল বদমাইশ গুলারে, বাসায় ফোন দিলাম
+> কিন্তু…"
+
+#### The craft, named
+
+1. **The reasonable refusal** — the son's excuses are factually airtight.
+   No narrator comment, no verdict. The moral weight is created by the gap
+   between what the reader feels and what the text says.
+2. **Clinical register as exhaustion** — "এনিউরিজমে ক্লিপটা দেয়া শেষ,
+   ডুরা ক্লোজ করতে দিয়ে … মাথা ভনভন করছে." Technical nouns, no adjectives:
+   the narrator is too tired to be lyrical, and that *is* the lyricism.
+3. **Seven days in one clause, then one image** — "লং স্টোরি শর্ট,
+   ভেন্টিলেটরে সাত দিন কেটে গেলো" compresses time; the waiting room with two
+   caretakers scrolling Facebook gives it back as texture. Summary and scene
+   used as a pair, each doing what the other cannot.
+4. **The rhetorical question as verdict** — "ফাহিমের কন্ডিশন এত হার্ড হলে
+   কেমনে কি?" One question indicts the economy without naming it once.
+5. **The imagined final line** — the story ends on a sentence nobody says:
+   a friend's old shout, cut off mid-thought ("বাসায় ফোন দিলাম কিন্তু…").
+   The accusation stays outside the text, where the reader must pick it up.
+
+#### Why the audience bit
+
+- **Shared scenario, not exotic.** Every middle-class Bangladeshi family has
+  a relative abroad and an elderly parent at home; the post is a mirror, not
+  a story.
+- **Authority without performance.** A doctor narrating a system failure in
+  flat first person reads as testimony. Had a non-doctor written the same
+  lines, the opening would be costume.
+- **Zero sloganeering.** No politics, no moral, no "আমাদের সিস্টেম". Grief
+  is delivered as logistics — files, bills, signatures, a bag of paperwork.
+- **The last line invites memory.** It ends by handing the reader a shared
+  past ("এখনই কেউ চিৎকার করে উঠবে") — the audience finishes the story with
+  their own dead friend.
+
+#### Caveat — this is a post, not a story
+
+There is no single scene, no want-friction-turn engine, and the ending is an
+invitation rather than a turn. It works anyway because the *fragment* form
+mirrors how such a week is actually remembered. Lesson: form may follow the
+shape of the memory, but do not mistake this for the Module 1 skeleton — it
+is the exception that shows what compression can buy.
+
+- **Re-siting seed:** an obligation refused with reasons that are all true —
+  a brother who does not come home, told entirely through phone calls,
+  hospital paperwork and one waiting-room image. Keep the narrator inside a
+  job whose vocabulary he actually owns.
+- **Access:** public Facebook post; quote, do not copy. Full text lives with
+  the author.
+
+
 ## World literature (via translation)
 
 ### 7. The cosmic premise made playful
