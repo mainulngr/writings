@@ -25,11 +25,13 @@ updated: 2026-10-30
 
 ## Active changes
 
-- `story-learning-lane` — catalog now 19 devices across three rings;
+- `story-learning-lane` — catalog now 21 devices across three rings;
   `paribhasha.md` (Bangla craft vocabulary), `learning-resources.md`
   (video shelf), corpus 20 texts + index in `data/`.
-  New: device 19, *the reasonable refusal* — Kabir's `#অক্টবরের_ভেন্টিলেটর`
-  cataloged as the first modern-vernacular exemplar (study-only excerpt).
+  Modern-vernacular ring now has two exemplars: Kabir's `#অক্টবরের_ভেন্টিলেটর`
+  (device 19, the reasonable refusal) and Faisal Rocky's হেরার বিস্ময়যাত্রা
+  (devices 20–21: the draped secret, the legend that comes true; study file
+  `_study/short-fiction/exemplars/hera.md`, full text private in `data/`).
 
 ## Start here
 
