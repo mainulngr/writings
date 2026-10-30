@@ -1,54 +1,56 @@
 ---
-updated: 2026-10-15 (model roles documented)
+updated: 2026-10-30
 ---
 
 # Handoff — writings
 
 ## Running now
 
-- Corpus reorganized by channel (social/blog/stories/books/assets) and the
-  five writing skills are live. Remote `origin` set; awaiting first push.
+- Content-only repo, channel layout (social/blog/stories/books), five
+  writing skills live, `.opencode/skills` link wired. Remote `origin` is
+  live and current (was "first push pending" — resolved).
+- **Short-fiction lane: Module 1 active, band switched to children.**
+  কাবুলিওয়ালা read; Module 0 (baseline + six-way model test) done.
+  `stories/adult/klanto_tom.md` carries a full নকশা + Bangla scaffold and is
+  **parked** — Mainul chose to learn structure on children's stories first.
 
 ## Open
 
-- [ ] `git push -u origin main` — first push, remote is empty.
-- [ ] `social/2025_12_09.md` is an empty template (Morning/Evening stubs only) — fill or drop.
+- [ ] Pick the Module 1 children's specimen: re-site a `social/` almost-story
+      for 7–9, or scaffold an original from household material (the 5-year-old,
+      the daughter, Tom-and-Jerry from the child's side). Sub-band:
+      **early-reader (7–9)** — board and picture are different crafts.
+- [ ] `social/2025_12_09.md` is an empty template — fill or drop.
+- [ ] `starter-review` is overdue (idea shelf unreviewed since mid-Oct).
 
 ## Active changes
 
-- `story-learning-lane` (active) — catalog now 16 devices, three rings;
-  corpus landed (`data/corpora/` 20 texts, index at
-  `data/derived/corpora-index.md`). Module 0 DONE 2026-10-15 — baseline
-  pair + six-way model rewrite test (`stories/adult/_baseline.md`);
-  writer's history (fiction 2010-12, dormant) filed in the change folder.
-  Module 1 next: read কাবুলিওয়ালা (corpus), rewrite one almost-story
-  social post as a scene.
+- `story-learning-lane` — catalog now 19 devices across three rings;
+  `paribhasha.md` (Bangla craft vocabulary), `learning-resources.md`
+  (video shelf), corpus 20 texts + index in `data/`.
+  New: device 19, *the reasonable refusal* — Kabir's `#অক্টবরের_ভেন্টিলেটর`
+  cataloged as the first modern-vernacular exemplar (study-only excerpt).
 
 ## Start here
 
-- Read `_marks/voice.md` before drafting — it is the voice contract.
-- Last real post file: `social/2026_09_07.md`. Posting cadence sparse since Dec 2025.
-- Skills: `fb-post`, `story`, `picture-book`, `blog-post`; end every draft with `voice-check`.
+- `_marks/voice.md` before drafting — the voice contract.
+- Last real post: `social/2026_09_07.md`. Cadence sparse since Dec 2025.
+- Skills: `fb-post`, `story`, `picture-book`, `blog-post`, `social-pipeline`;
+  end every draft with `voice-check`.
 
 ## Open threads
 
-- Reach logging (per `_marks/posting-schedule-bd.md`) not yet started — begin with the next posted piece.
-- `social-pipeline` promoted → `_agent/skills/social-pipeline/` — L2
-  loop live: seed-driven `batch`, verdict `sweep`; queue at
-  `social/_queue.md`. FB handles recorded in `fb-campaign-home` README.
-- `fb-campaign-home` idea is `exploring` — working lean v3: `mainulngr`
-  engine · `mainulsq` storefront+hedge · `Onkur Notes` studio voice ·
-  anon page only for the truly sensitive tier. Awaiting Mainul's decision.
-- Children's & teens registers are open questions in `_marks/voice.md` —
-  settled 2026-10-15 to earn them pieces-first: the first 2–3 real
-  stories/spreads will be distilled into register rules.
-- Model roles settled → `_marks/models.md` (dated): editor-not-ghostwriter
-  split — sonnet-5-5 default critique, opus-5-5/fable-5-1 deep tier,
-  swe + CMD free tiers for ops. `voice-check` gained a critique mode
-  (improve/discard/add + rating + voice-cost-labeled engagement reads).
-  Open: run the `brishtir_opokkha` critique A/B across the tiers before
-  paying for one.
-- Media staged in `_warehouse/assets/` (unversioned, on disk only — purged from
-  git history 2026-10-15). Permanent home undecided — options: keep staging,
-  an attic layer (tracked loose storage), or a data repo. Repo is now
-  text/markdown only by intent.
+- **Children's lane feeds the product.** `_marks/production.md` points at the
+  onkurreads marks: 30-title launch shelf (20 existing bn + 8 rewrites + 2
+  originals), audio/art options. Two Tier C slots are held for originals
+  written here.
+- Children's/teens registers still unsettled in `voice.md` — earned
+  pieces-first; the first 2–3 real children's pieces distill into rules.
+- Model roles → `_marks/models.md` (dated): sonnet default critique,
+  opus/fable deep tier, swe + CMD free for ops; co-author on request.
+  Open: run the `brishtir_opokkha` critique A/B across tiers.
+- `social-pipeline` L2 loop live — queue at `social/_queue.md`.
+- `fb-campaign-home` still `exploring` — lean v3 awaiting decision.
+- Reach logging not started — begin with the next posted piece.
+- Media staged in `_warehouse/assets/` (unversioned, purged from history
+  2026-10-15); permanent home undecided.
