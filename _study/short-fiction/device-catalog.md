@@ -176,9 +176,33 @@ is the exception that shows what compression can buy.
 - **Access:** public Facebook post; quote, do not copy. Full text lives with
   the author.
 
+### 20. The draped secret
+- **Exemplar:** Faisal Rocky, "হেরার বিস্ময়যাত্রা" (Facebook, Oct 2026).
+  Study file: `exemplars/hera.md`; full text is a private copy in
+  `data/exemplars/modern-bangla/`. **Copyrighted — never republish.**
+- **Device:** a bodily condition is present in every paragraph and never
+  named; a garment carries it instead. When the garment finally fails, the
+  reveal is caused by an object (a hood-nut), not by a decision — the
+  character never chooses to be seen.
+- **Why it fits:** it lets him write the body, shame, illness or taboo
+  *without stating it* — the restraint already in `voice.md`, applied to
+  subject matter he has not tried yet.
+- **Re-siting seed:** any hidden change under clothing or ritual; the small
+  mechanical accident that betrays it in front of a crowd.
+
+### 21. The legend that comes true
+- **Exemplar:** same story — the grandfather's fairy tale (a fairy's wings
+  cut so she could be kept) returns as literal wings at the climax.
+- **Device:** a family folktale told early as consolation becomes physical
+  fact at the turning point. The magic is *earned* because the reader was
+  handed the myth before the miracle. Distinct from device 18 (an image
+  returning): here a **belief system** returns.
+- **Why it fits:** a route into magical realism that does not feel imported —
+  Bangla folklore as the engine rather than a borrowed Latin-American mode.
+- **Re-siting seed:** a cursed tree, a river that takes one child a
+  generation, an ancestor's story that turns literal in the present.
 
 ## World literature (via translation)
-
 ### 7. The cosmic premise made playful
 - **Exemplar:** Italo Calvino, *Cosmicomics* (Italian) — modern.
 - **Device:** take a scientific fact, narrate it as a lived memory
